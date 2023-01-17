@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "yeet"
+version = "0.1.0"
+description = ""
+authors = ["astral4 <88992929+astral4@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lark = "^1.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
