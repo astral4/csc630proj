@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "yeet"
 version = "0.1.0"
-description = ""
-authors = ["astral4 <88992929+astral4@users.noreply.github.com>"]
+description = "A language specification and validator built with Lark"
+authors = ["astral4", "Edouard87", "saleh573", "andrewyu23"]
 license = "MIT"
 readme = "README.md"
 
